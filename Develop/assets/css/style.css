@@ -133,8 +133,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
+    /* changed selector to an ID so the top nav bar would direct user to the correct section */
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -160,8 +160,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+     /* changed selector to an ID so the top nav bar would direct user to the correct section */
+#search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -172,8 +172,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+     /* changed selector to an ID so the top nav bar would direct user to the correct section */
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
