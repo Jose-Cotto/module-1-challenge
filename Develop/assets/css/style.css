@@ -145,7 +145,8 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+    /* Add a .footer-head class to the heading in the footer and removed the h2 to keep it as semantic as possible. */
+.footer,
+.footer-head {
     font-size: 20px;
 }
