@@ -2,16 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This webpage was created to stress the importance of accessability and semantics. It contains semantic elements, alt tags for images and consolidated CSS rules to ensure accessability for all as well as comments and improvements for long-term sustainability.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -26,9 +19,7 @@ N/A
 
 To use this webpage, you can review the information in each section. For convenience, you can also use the navigation links to direct you to your desired section on the same page. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![alt-text](Develop/assets/images/screenshot.png)
 
 ## Credits
 
