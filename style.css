@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/* replaced div with nav so inserted in styling to assume the same wanted styles. */
+/* replaced div with nav so inserted in styling to display the same wanted styles. */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
