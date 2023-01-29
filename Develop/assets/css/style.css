@@ -146,7 +146,6 @@ p {
     text-align: center;
 }
     /* Add a .footer-head class to the heading in the footer and removed the h2 to keep it as semantic as possible. */
-.footer,
-.footer-head {
+.footer .footer-head {
     font-size: 20px;
 }
