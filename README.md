@@ -19,7 +19,7 @@ N/A
 
 To use this webpage, you can review the information in each section. For convenience, you can also use the navigation links to direct you to your desired section on the same page. 
 
-![alt-text](Develop/assets/images/screenshot.png)
+![alt-text](assets/images/screenshot.png)
 
 ## Credits
 
